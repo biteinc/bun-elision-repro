@@ -1,0 +1,16 @@
+{
+  "lockfileVersion": 1,
+  "configVersion": 1,
+  "workspaces": {
+    "": {
+      "name": "bun-elision-repro",
+    },
+    "packages/app": {
+      "name": "app",
+      "version": "0.0.0",
+    },
+  },
+  "packages": {
+    "app": ["app@workspace:packages/app"],
+  }
+}

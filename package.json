@@ -1,0 +1,8 @@
+{
+  "name": "bun-elision-repro",
+  "private": true,
+  "workspaces": ["packages/*"],
+  "scripts": {
+    "test-root": "echo 'root script'"
+  }
+}

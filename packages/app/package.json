@@ -1,0 +1,9 @@
+{
+  "name": "app",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "print-many": "bun run log-many.ts",
+    "print-many-direct": "bun log-many.ts"
+  }
+}
